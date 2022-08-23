@@ -10,7 +10,7 @@ Here you will find information about our opensource tools
   [This article](https://medium.com/metaspan/staking-on-kusama-3960c23ac552) explains the complexity and effort of selecting validators.
   
   The `validator selector` cuts down all the effort, and recommends validators that are:
-  - active, good reputaion and technical score
+  - active, good reputation and technical score
   - not overscribed
   - low commission
 
