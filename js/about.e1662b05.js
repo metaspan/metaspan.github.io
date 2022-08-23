@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmetaspan_github_io"]=self["webpackChunkmetaspan_github_io"]||[]).push([[443],{2323:function(t,n,u){u.r(n),u.d(n,{default:function(){return r}});var s=function(){var t=this;t._self._c;return t._m(0)},a=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"about"},[n("h1",[t._v("This is an about page")])])}],e=u(1001),i={},l=(0,e.Z)(i,s,a,!1,null,null,null),r=l.exports}}]);
+//# sourceMappingURL=about.e1662b05.js.map
